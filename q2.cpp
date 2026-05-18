@@ -46,4 +46,4 @@ int main()
     res=f(s);
     cout<<s<<"\n";
 
-}
+} 
